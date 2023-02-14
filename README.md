@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, Django, Flask, FastAPI, Node.js, ExpressJS, and NestJS**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **dehinbonatt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
