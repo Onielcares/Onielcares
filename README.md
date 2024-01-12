@@ -1,7 +1,7 @@
 <h2 align="center">The web is a such a beautiful space, i keep it going always.</h2>
 <br />
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI, Node.js, ExpressJS, and NestJS**
+- 💬 Ask me about **Node.js, ExpressJS, Typescript, Javascript a growing knowledge of Python, Django, Flask, FastAPI**
 
 - 📫 How to reach me **dehinbonatt@gmail.com**
 
